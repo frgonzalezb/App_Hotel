@@ -6,6 +6,8 @@ Integrantes:
 - Francisco González
 - Maykol Villena
 
-Carrera: Analista Programador Computacional
-Institución: Duoc UC, sede Concepción
+**Carrera:** Analista Programador Computacional
+ 
+**Institución:** Duoc UC, sede Concepción
+ 
 Segundo semestre 2021
