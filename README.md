@@ -1,5 +1,5 @@
 # App_Hotel
-Desarrollo trabajo grupal final de la asignatura "Desarrollo de Software de Escritorio".
+Desarrollo trabajo grupal final de la asignatura "Desarrollo de Software de Escritorio" (PGY2121).
 
 Integrantes:
 - Felipe Escalona
